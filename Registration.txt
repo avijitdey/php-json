@@ -1,0 +1,4 @@
+{"firstname":"Avijit","lastname":"Dey","gender":"male","email":"avijitdey762@gmail.com","username":"avijit","password":"avijit123","rec_email":"avijitdey762@gmail.com"}
+{"firstname":"Joyonto","lastname":"Roy","gender":"female","email":"joyontoroy@gmail.com","username":"joyontoroy","password":"joyontoroy","rec_email":"joyontoroy@gmail.com"}
+{"firstname":"Rimi","lastname":"Dey","gender":"female","email":"rimidey762@gmail.com","username":"rimi","password":"rimi","rec_email":"avijitdey762@gmail.com"}
+{"firstname":"Rimi","lastname":"Dey","gender":"female","email":"rimidey762@gmail.com","username":"rimi","password":"rimi","rec_email":"avijitdey762@gmail.com"}
